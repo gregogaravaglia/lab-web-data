@@ -6,3 +6,5 @@ __pycache__/
 *.egg-info/
 build/
 dist/
+master_*.json
+master_*.json.zip
