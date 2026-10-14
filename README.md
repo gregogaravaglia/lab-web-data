@@ -17,4 +17,4 @@ Percent of the archived tweets that contain each term/phrase, ignoring capitaliz
 
 ![Bar chart of the percent of tweets containing each phrase](tweets.png)
 
-Trump appears in far more tweets than any other phrase, followed by Obama. I had originally predicted "MAGA" would be the most common term.
+Trump appears in far more tweets than any other phrase, followed by Obama. I had originally predicted MAGA would be the most common term.
