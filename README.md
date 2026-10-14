@@ -4,7 +4,7 @@
 
 Percent of the archived tweets that contain each term/phrase, ignoring capitalization.
 
-| term              | percent of tweets |
+| phrase            | percent of tweets |
 | ----------------- | ----------------- |
 |         fake news | 00.88             |
 |              maga | 00.93             |
